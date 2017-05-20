@@ -21,4 +21,4 @@ A compilation of designs and theories to "pinpoint" the major areas of focus for
 
 ## License
 
-GPLv3. At the moment, development is still in the blueprint stages. It is not recommended that you use this software until it has been "stable" for personal use. Copyright (c) 2017.
+GPLv3. At the moment, development is still in the blueprint stages. It is not recommended that you use this software until it has been deemed "stable" for personal use. Copyright (c) 2017.
